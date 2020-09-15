@@ -1,4 +1,4 @@
-# Tuppence - A Simple Wallpaper Manager
+# Guppy - A Simple Wallpaper Manager
 
 *** this project is currently totally non-functional and under construction, feel free to review and contribute on issues ***
 
@@ -24,7 +24,7 @@ See above.
 
 ## Copyright
 
-Tuppence - A Simple Wallpaper Manager (Tuppence ASWM) Copyright (C) 2020  Principal Author: Alastair Cooper
+Guppy - A Simple Wallpaper Manager (Guppy ASWM) Copyright (C) 2020  Principal Author: Alastair Cooper
 
 ## License
 
